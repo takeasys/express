@@ -1,0 +1,12 @@
+mongodb
+==============
+brew services stop mongodb-community@4.4
+
+express with express-generator
+==============
+npm start
+
+mongodb
+==============
+dbadmin
+h1UG0wfPmXklFEyN
